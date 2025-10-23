@@ -1,6 +1,6 @@
 OS version (home) selected.
 
-curl -L https://1it.li/en-home -o skip.cmd
+curl -L https://1it.li/es-home -o skip.cmd
 
 skip.cmd
 
