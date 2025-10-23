@@ -1,6 +1,6 @@
 OS version (pro) selected.
 
-curl -L https://1it.li/en-pro -o skip.cmd
+curl -L https://1it.li/de-pro -o skip.cmd
 
 skip.cmd
 
